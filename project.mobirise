@@ -139,7 +139,7 @@
               "name": "target",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "http://joinindianarmy.nic.in/index.htm",
+              "link": "http://joinindianarmy.nic.in/index.html",
               "size": 0,
               "color": "#fff",
               "newWindow": false
