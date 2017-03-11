@@ -412,7 +412,8 @@ h6,
   opacity: 0 !important;
 }
 #features7-1 .card-subtitle {
-  color: #bcbcbc;
+  color: #28324e;
+  font-size: 15px;
 }
 #features7-1 .iconbox {
   background-color: #c0a375;
