@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Techwiz-2K17",
+    "name": "Indian Defence",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,9 @@
     "uniqCompNum": 10,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -88,7 +90,7 @@
           },
           "title": "Indian Defence",
           "text": "Make Your Nation to LEAD.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://djschandran.page.tl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features7-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
         },
         {
           "_inherit": "features4",
@@ -108,8 +110,8 @@
           "_anchor": "features7-1",
           "_params": {
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -125,7 +127,7 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false
           },
